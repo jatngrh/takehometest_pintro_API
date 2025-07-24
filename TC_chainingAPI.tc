@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_chainingAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2bc8854-1c55-4ddd-a92e-d655fd0ef5b1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08c05758-022b-40cb-bc1b-86ca9069e190</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'${GlobalVariable.postId}'</defaultValue>
+      <description></description>
+      <id>08c05758-022b-40cb-bc1b-86ca9069e190</id>
+      <masked>false</masked>
+      <name>postId</name>
+   </variable>
+</TestCaseEntity>
